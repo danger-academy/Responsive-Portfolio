@@ -266,11 +266,11 @@ input[type=submit] {
     float: left;
   }
 
-  .main-section {
+  .paragraph {
   	max-width: 100%
   }  
 
-  .auth-image {
+  .profile-pic {
 		width: 50%;
 	}
 }
@@ -285,7 +285,7 @@ input[type=submit] {
     float: left;
   }
 
-  .main-section {
+  .paragraph {
   	max-width: 100%;
     margin-right: 15px;
     margin-left: 15px;
@@ -330,7 +330,7 @@ input[type=submit] {
 		line-height: 30px;
 	}
 
-	.main-section,
+	.paragraph,
 	.sidebar {
 		padding: 20px;
     max-width: 300px;
@@ -341,7 +341,7 @@ input[type=submit] {
     padding-top: 0px;
   }
 
-  .auth-image {
+  .profile-pic {
     float: none;
     width: 100%;
     height: auto;
